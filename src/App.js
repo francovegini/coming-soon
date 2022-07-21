@@ -2,7 +2,13 @@ import './App.css';
 
 function App() {
   return (
-    <h1>Text</h1>
+      <div className="App">
+        <div className="container">
+          <h1>
+            Coming Soon...
+          </h1>
+        </div>
+      </div>
   );
 }
 
