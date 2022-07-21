@@ -5,7 +5,7 @@ function App() {
       <div className="App">
         <div className="container">
           <h1>
-            Coming Soon.
+            Coming Soon...
           </h1>
         </div>
       </div>
